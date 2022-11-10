@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/furkankyildirim" target="blank"><img src="https://img.shields.io/twitter/follow/furkankyildirim?logo=twitter&style=for-the-badge" alt="furkankyildirim" /></a> </p>
 
-- 🔭 I’m currently working on [Algorithm Developer Intern at Getir](https://getir.com)
+- 🔭 I’m currently working on [Algorithm Developer at Getir](https://getir.com)
 
-- 🌱 I’m currently learning **Algorithms & Blockchain Technology**
+- 🌱 I’m currently learning **Algorithms, Vehicle Routing Problems and Optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkankyildirim](https://github.com/furkankyildirim)
 
