@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Furkan K. Yıldırım</h1>
-<h3 align="center">Computer Science & Industrial Engineering Student at Sabancı University</h3>
+<h3 align="center">Industrial Engineering M.Sc. Student at Sabancı University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkankyildirim&label=Profile%20views&color=0e75b6&style=flat" alt="furkankyildirim" /> </p>
 
 <p align="left"> <a href="https://twitter.com/furkankyildirim" target="blank"><img src="https://img.shields.io/twitter/follow/furkankyildirim?logo=twitter&style=for-the-badge" alt="furkankyildirim" /></a> </p>
 
-- 🔭 I’m currently working on [Algorithm Developer at Getir](https://getir.com)
+- 🔭 I’m currently working on [Sabancı University](https://www.sabanciuniv.edu)
 
 - 🌱 I’m currently learning **Algorithms, Vehicle Routing Problems and Optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkankyildirim](https://github.com/furkankyildirim)
 
-- 💬 Ask me about **Python, FastAPI, Flutter**
+- 💬 Ask me about **Python, FastAPI, Flutter, React-React Native**
 
 - 📫 How to reach me **contact@furkankyildirim.com**
 
