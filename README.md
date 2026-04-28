@@ -8,8 +8,6 @@ Founder of <a href="https://yilven.com" target="_blank">Yilven</a> • <a href="
 
 ![Profile views](https://komarev.com/ghpvc/?username=furkankyildirim&label=Profile%20views&color=0e75b6&style=flat)
 
----
-
 ## Connect with Me
 - 📧 Email: contact@furkankyildirim.com  
 - 💼 LinkedIn: <a href="https://linkedin.com/in/furkankyildirim" target="_blank">linkedin.com/in/furkankyildirim</a>  
